@@ -1,0 +1,2 @@
+host_name,port,username,db_name,webhdfs_default_port,bootstrap-server,kafka_port,kafka_user
+192.168.2.36,50070,hive,loandata,50070,quickstart.cloudera,9092,cloudera
